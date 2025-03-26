@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raj8922
 - 👀 I’m interested in code
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently web developer
 - 💞️ I’m looking to collaborate on stock idicators company
 - 📫 How to reach me 
 
